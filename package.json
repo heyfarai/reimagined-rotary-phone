@@ -2,6 +2,7 @@
   "_aerobatic": {
     "build": {
       "engine": "hugo",
+      "theme": "https://mr_farai@bitbucket.org/mr_farai/hugo-theme-pixelup2016.git"
     }
   }
 }
