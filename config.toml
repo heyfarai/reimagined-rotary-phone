@@ -1,5 +1,6 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
 title = "Pixel Up!"
+theme = "pixelup-2016"
 [Params]
   Author = "Pixel Up!"
