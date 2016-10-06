@@ -1,0 +1,20 @@
+
+  {{ partial "default_head.html" . }}
+
+          <div class="section-layout--sloping-bottom-left hero typeset">
+              <div class="hero__layout container">
+                <h1 class="hero__header">{{ .Title }}</h1>
+                {{ if isset .Params "pagecaption" }}<p class="caption">Everyone must feel safe from harassment</p>{{ end }}
+              </div>
+          </div>
+    		<div class="content-wrapper">
+                <div class="section-layout">
+                    <section class="section typeset container">
+                        <article class="article--single">
+                        {{ .Content }}
+                        </article>
+                    </section>
+                </div>
+    		</div>
+
+  {{ partial "default_foot.html" . }}
