@@ -17,4 +17,4 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push hub master
-git subtree push --prefix=_build https://github.com/mr-farai/reimagined-rotary-phone gh-pagesls
+git subtree push --prefix=_build https://github.com/mr-farai/reimagined-rotary-phone gh-pages
