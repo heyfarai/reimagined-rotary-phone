@@ -19,9 +19,7 @@
                             <p>Learn from the authors, founders, directors and designers - who've worked at companies like SaleforcesUX, Apple, Twitter, Dropbox, Cooper, Google, and DesignMap - who are helping push the industry forward.</p>
                             <div class="speaker-grid">
                                 {{ range $key, $value := .Data.Pages }}
-                                  {{ if eq .Section "speaker" }}
-                                      {{ .Render "li" }}
-                                  {{ end }}
+                                    {{ .Render "li" }}
                                 {{ end }}
                             </div>
                     </section>

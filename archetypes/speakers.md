@@ -1,10 +1,11 @@
 +++
 name = ""
-bio = ""
 jobtitle = ""
 tagline = ""
 company = ""
 twitter = ""
 city = ""
+slug = ""
+website = ""
 
 +++
