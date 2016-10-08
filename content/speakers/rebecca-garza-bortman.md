@@ -7,5 +7,5 @@ slug = "rebecca-garza-bortman"
 tagline = "I love to take fantastic dreams and make them into a functioning designs!"
 title = "rebecca garza bortman"
 twitter = "@bortrock"
-aliases = ["rebecca-bortman-garza"]
+aliases = ["/speakers/rebecca-bortman-garza"]
 +++

@@ -1,6 +1,5 @@
 +++
 date = "2016-10-07T18:43:30+02:00"
-draft = true
 title = "EVERYTHING YOU WANTED TO KNOW ABOUT RESPONSIVE DESIGN...AND LESS!"
 speakers = [ "Brad Frost" ]
 slug = "everything-you-wanted-to-know-about-responsive-design-and-less"

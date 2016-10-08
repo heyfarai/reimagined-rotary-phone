@@ -1,6 +1,5 @@
 +++
 date = "2016-10-07T18:42:56+02:00"
-draft = true
 title = "UX Launchpad - Design Play"
 speakers = [ "Jon Bell", "William van Hecke" ]
 slug = "ux-launchpad-design-play"
