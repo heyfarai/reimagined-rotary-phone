@@ -2,6 +2,7 @@
 title       = "Code of Conduct"
 description = "Nitro is a simple profiler for your Golang applications"
 url        = "/code-of-conduct"
+aliases = ["/has/a/code-of-conduct"]
 title_caption = "Everyone must feel safe at Pixel Up!"
 +++
 

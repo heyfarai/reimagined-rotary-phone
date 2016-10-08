@@ -29,11 +29,8 @@
                     <section class="section typeset container">
                         <h2>More Speakers</h2>
                         <div class="featured-speaker-list">
-                            {{ $paginas :=  .Site.Pages }}
-                            {{ range first 4 (sort $paginas) }}
-                              {{ if eq .Section "speakers" }}
-                                  {{ .Render "li" }}
-                              {{ end }}
+                            {{ range last 4 (where .Site.Pages ".Section" "speakers") }}
+                                {{ .Render "li" }}
                             {{ end }}
                         </div>
                     </section>
