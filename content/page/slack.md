@@ -4,6 +4,5 @@ title = "Join Pixel Up!'s Slack Group"
 title_caption = ""
 url = "/slack"
 isSlack = "true"
-aliases = ["https://pixelup.typeform.com/to/fMa60z"]
 
 +++
